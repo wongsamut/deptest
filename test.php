@@ -5,7 +5,7 @@
 </head>
 <body>
 <script>
-swal("Hello Git!!!")
+swal("Hello Git!!!");
 </script>
 </body>
  
